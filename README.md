@@ -13,8 +13,8 @@ The technologies that made possible this project are shown below.
 ### Prerequisites
 
 1. Be sure to have installed Xcode 15.
-2. Be sure your system supports macOS Sonoma.
-3. Be sure your device supports iOS17+.
+2. Be sure your device supports iOS17+.
+3. Be sure your system supports macOS Sonoma.
 
 <!-- CONTRIBUTING -->
 ## Contributors
