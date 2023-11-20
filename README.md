@@ -1,4 +1,4 @@
-# Nanochallenge 01 - Spotify UI
+#  Practicing UI - Spotify UI
 
 This nano-project develops 3 spotify screens to reinforce my knowlede about the creation of Custion UI's by using combinations of native components and custom additiosn to the application with Voice Over support. 
 
