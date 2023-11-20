@@ -1,6 +1,6 @@
 #  Practicing UI - Spotify UI
 
-This nano-project develops 3 spotify screens to reinforce my knowlede about the creation of Custion UI's by using combinations of native components and custom additiosn to the application with Voice Over support. 
+This nano-project develops 3 spotify screens to reinforce my knowlede about the creation of custom UI's by using combinations of native components and custom additiosn to the application with Voice Over support. 
 
 ### Built With
 The technologies that made possible this project are shown below.
