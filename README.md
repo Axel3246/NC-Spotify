@@ -5,6 +5,7 @@ This nano-project develops 3 spotify screens to reinforce my knowlede about the 
 ### Built With
 The technologies that made possible this project are shown below.
 
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
